@@ -1,0 +1,13 @@
+{
+	"Id": "HighLevelSpells",
+	"DisplayName": "HighLevelSpells",
+	"Author": "RealBazou",
+	"Version": "0.0.1",
+	"ManagerVersion": "0.23.4",
+	"Requirements": [ "SolastaModApi" ],
+	"LoadAfter": [ "SolastaModApi" ],
+	"AssemblyName": "HighLevelSpells.dll",
+	"EntryMethod": "HighLevelSpells.Main.Load",
+	"Repository": "https://raw.githubusercontent.com/RealBazou/HighLevelSpells/main/HighLevelSpells/Repository.json",
+	"HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/##"
+}
